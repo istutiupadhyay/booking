@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD412RgpRXjcNdnQCE4CNDWCWAh2Zw3g_VeQ&usqp=CAU');
+    background-size: cover;
+    background-position: center;
+}
+.registration form
+{
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: transparent;
+    padding: 20px;
+    margin: 8% auto 0;
+    
+}
+
+.registration form h1
+{
+    text-align: center;
+}
+.registration form h6
+{
+    text-align: center;
+}
+.form
+{
+    width: 100%
+    
+}
+
+table {
+    margin: 50px auto;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid #000;
+}
+
+th, td {
+    padding: 5px;
+    text-align: center;
+}
